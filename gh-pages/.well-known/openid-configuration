@@ -1,8 +1,8 @@
 {
-  "issuer": "http://dex.dexidp.cluster.local",
+  "issuer": "https://sir-jacques.github.io/kind-irsa/gh-pages",
   "authorization_endpoint": "http://dex.dexidp.cluster.local/auth",
   "token_endpoint": "http://dex.dexidp.cluster.local/token",
-  "jwks_uri": "http://dex.dexidp.cluster.local/keys",
+  "jwks_uri": "https://sir-jacques.github.io/kind-irsa/gh-pages/keys",
   "userinfo_endpoint": "http://dex.dexidp.cluster.local/userinfo",
   "device_authorization_endpoint": "http://dex.dexidp.cluster.local/device/code",
   "introspection_endpoint": "http://dex.dexidp.cluster.local/token/introspect",
