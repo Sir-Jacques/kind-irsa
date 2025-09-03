@@ -1,1 +1,1 @@
-{"issuer":"https://sir-jacques.github.io/kind-irsa/talos-0/","jwks_uri":"https://sir-jacques.github.io/kind-irsa/jwks","response_types_supported":["id_token"],"subject_types_supported":["public"],"id_token_signing_alg_values_supported":["RS256"]}
+{"issuer":"https://sir-jacques.github.io/kind-irsa/talos-0/","jwks_uri":"https://sir-jacques.github.io/kind-irsa/talos-0/jwks","response_types_supported":["id_token"],"subject_types_supported":["public"],"id_token_signing_alg_values_supported":["RS256"]}
